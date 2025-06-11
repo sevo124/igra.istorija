@@ -1,4 +1,3 @@
-# igra.istorija
 <!DOCTYPE html>
 <html lang="sr">
 <head>
